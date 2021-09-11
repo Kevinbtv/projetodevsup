@@ -1,4 +1,4 @@
 ### Projeto SpringReact
-Link do site: <a target = "_blank">https://dsvendas-kevin.netlify.app/</a>
+Link do site: <a href="https://dsvendas-kevin.netlify.app/" target = "_blank">Clique e aproveite.</a>
 
 ### ENJOY ;)
